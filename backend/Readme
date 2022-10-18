@@ -1,0 +1,9 @@
+## Backend
+
+# to run backend 
+
+First run mpm install and then
+
+go to terminal and paste the following command
+
+json-server --watch db.json
